@@ -1,5 +1,5 @@
 # Project1---TextInImage
-Steganography project
+CS353 Computer Security - Steganography project
 
 Name: Jonathan Saysay
 
