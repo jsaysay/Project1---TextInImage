@@ -1,6 +1,6 @@
 """
 Name:Jonathan Saysay
-CWID: 891681553
+
 Class: CS353
 
 Description - 	This program will embed text into an image
