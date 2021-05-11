@@ -1,7 +1,5 @@
 """
-Name:Jonathan Saysay
-CWID: 891681553
-Class: CS353
+
 
 Description - 	This program will extract the text from an 
 				Image and print it to the terminal.
